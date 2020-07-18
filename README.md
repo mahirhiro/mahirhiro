@@ -1,11 +1,11 @@
 # Hello there! Welcome to my Github profile 👋
 
 
-- 🔭 I’m currently working at Reducept
+- 🔭 I’m currently working at [Reducept](http://reducept.com/team)
 - 🖥 I’m currently learning ReactJS
 - 💬 Ask me about about any questions you have in my repos!
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/mahirhiro/) 
-- 🗜 I am currently intrigued about web scrapping hence my recent Facebook Business Messenger project 
+- 🗜 I am currently intrigued about web scrapping hence my recent [Facebook Business Messenger project](https://github.com/mahirhiro/facebook-messenger-script) 
 <!--
 **mahirhiro/mahirhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
