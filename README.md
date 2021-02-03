@@ -1,12 +1,13 @@
 # Hello there! Welcome to my Github profile 👋
 
-
-- 🔭 I’m currently working at [Reducept](http://reducept.com/team)
-- 🖥 I’m currently learning ReactJS
+- 🖥 I’m currently learning Kafka
 - 💬 Ask me about about any questions you have in my repos!
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/mahirhiro/) 
-- 🗜 I am currently intrigued about web scrapping hence my recent [Facebook Business Messenger project](https://github.com/mahirhiro/facebook-messenger-script) 
+
 <!--
+- 🔭 I’m currently working at [Reducept](http://reducept.com/team)
+- 🗜 I am currently intrigued about web scrapping hence my recent [Facebook Business Messenger project](https://github.com/mahirhiro/facebook-messenger-script) 
+
 **mahirhiro/mahirhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
