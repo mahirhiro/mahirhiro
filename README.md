@@ -6,8 +6,9 @@
   <img alt="Mahir Hiro | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 
-![Mahirs's github stats](https://github-readme-stats.vercel.app/api?username=mahirhiro&count_private=true&show_icons=true&hide_border=false&theme=merko)
-[![Mahir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirhiro&layout=compact&count_private=true&theme=merko&hide=perl&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirhiro&layout=compact&count_private=true&theme=merko&hide=perl&langs_count=8)
+![Mahirs's github stats](https://github-readme-stats-phi-dun-66.vercel.app/api?username=mahirhiro&count_private=true&show_icons=true&hide_border=false&theme=merko)
+[![Mahir's Top Languages](https://github-readme-stats-phi-dun-66.vercel.app/api/top-langs/?username=mahirhiro&layout=compact&count_private=true&theme=merko&hide=perl&langs_count=8)](https://github-readme-stats-phi-dun-66.vercel.app/api/top-langs/?username=mahirhiro&layout=compact&count_private=true&theme=merko&hide=perl&langs_count=8)
+
 <!--
 
 **mahirhiro/mahirhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
